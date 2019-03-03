@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Aplicación Clima</string>
+    <string name="tvCiudad">Siguatepeque</string>
+    <string name="tvGrados">24°C</string>
+    <string name="tvDescripcion">5:33 PM | Jueves, 14 Febrero 2019</string>
+    <string name="tvEstado">Soleado</string>
+    <string name="tvMinima">Min 8°C</string>
+    <string name="tvMaxima">Max 29°C</string>
+    <string name="tvSensacion">Sensacion 29°C</string>
+    <string name="tvHumedad">Humedad</string>
+    <string name="tvHumedadResultado">72%</string>
+    <string name="tvPresion">Presión</string>
+    <string name="tvPresionResultado">1000 hpa</string>
+    <string name="tvViento">Viento</string>
+    <string name="tvVientoResultado">8 km/h</string>
+    <string name="etCiudadPista">Buscar ciudad</string>
+    <string name="temperatura">°C</string>
+    <string name="minima">Min</string>
+    <string name="maxima">Max</string>
+    <string name="porcentaje">%</string>
+    <string name="viento">km/h</string>
+    <string name="presion">hpa</string>
+    <string name="localeLanguage">es</string>
+    <string name="localeCountry">hn</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Estilos personalizados -->
+    <style name="MyStyle.InputLayout" parent="Widget.Design.TextInputLayout">
+        <item name="hintTextAppearance">@style/HintTextAppearance</item>
+    </style>
+
+    <style name="MyTheme.EditText" parent="Theme.AppCompat.Light">
+        <!-- Color inactivo para la línea -->
+        <item name="colorControlNormal">@color/colorSecondaryText</item>
+
+        <!-- Color activo -->
+        <item name="colorControlActivated">@color/colorTextIcons</item>
+    </style>
+
+    <style name="HintTextAppearance" parent="TextAppearance.Design.Hint">
+        <!-- Color para la pista inactiva -->
+        <item name="android:textColor">@color/colorSecondaryText</item>
+    </style>
+
+</resources>
